@@ -1,5 +1,7 @@
 body{
     background-color: #f2f2f2;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
 }
 
 /* header sytles */
@@ -81,7 +83,6 @@ iframe {
 .section-four {
     background-color: #bf0426;
     height: 500px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     text-align: center;
     display: flex;
@@ -99,9 +100,9 @@ iframe {
 }
 
 h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 60px;
     text-align: center;
+    font-family: /*'Josefin Sans', */'filicudi-color-pride'/*, Verdana, Geneva, Tahoma, sans-serif*/;
 }
 
 ul{
@@ -121,7 +122,6 @@ ul{
 }
 
 li{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 10px;
     margin: 0px 3px;
     border: 1px solid limegreen;
@@ -142,7 +142,6 @@ li{
 }
 
 .mediacontent{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: navy;
     font-size: 20px;
 }
@@ -150,8 +149,8 @@ li{
 button {
     border: 1px solid blueviolet;
     border-radius: 5px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
+    font-family: 'Josefin Sans', sans-serif;
     padding: 10px;
     margin: 2px;
     transition-duration: .4s;
